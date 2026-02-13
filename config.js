@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 3000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Bazinga! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "I know things have been hard lately my love BUT WE GO THIS!",
+        message: "I HAVE THE BEST VALENTINE IN THE ENTIRE WORLD!!!!!!!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
